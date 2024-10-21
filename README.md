@@ -7,4 +7,4 @@ Y. Mo, M. S. Kearney, R. E. Turner. The resilience of coastal marshes to hurrica
 
 # Research highlights
 [The Magic of Mangrove ](https://www.youtube.com/watch?v=2gAxHTHOSKk)
-![] (https://www.oxfordsparks.ox.ac.uk/wp-content/uploads/2024/03/vishwasa-navada-k-EK9u6IyUldw-unsplash-1536x1153.jpg | width=100）
+<img src="assets/img/mangrove.jpg" | width=100）
