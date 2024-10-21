@@ -3,16 +3,3 @@ title: Yu Mo
 description: Research Fellow at the University of Oxford
 logo: https://media.licdn.com/dms/image/v2/C4E03AQHmaEl4j001zw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1526523977364?e=1735171200&v=beta&t=jirMWgI-ICHtnwBEOBQHyu__xPxdrR5s_ufF-4RkyvY
 show_downloads: false
-
-@import "{{ site.theme }}";
-header {
-  img {
-    border-radius: 50%;
-  }
-  p {
-    text-align: center;
-  }
-  p.view {
-    text-align: left;
-  }
-}
