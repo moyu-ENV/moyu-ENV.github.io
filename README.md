@@ -1,5 +1,5 @@
 # Research Interests
-I am passionate about advancing coastal ecology, Earth science, and data science to deepen our understanding of coastal resilience to storms and the potential of coastal ecosystems as nature-based solutions for climate-resilient development. 
+I research how coastal ecosystems serve as natural solutions for climate risk mitigation and adaptation, with a focus on using advanced Earth and data science techniques to explore how these ecosystems function under severe climate stresses.
 
 # Some recent publications
 Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystems: potential future regional shifts. Frontiers in Ecology and the Environment (2023) 21(6): 269–274, [doi:10.1002/fee.2650](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2650) 
