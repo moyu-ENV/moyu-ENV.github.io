@@ -9,16 +9,11 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 [The Magic of Mangrove ](https://www.youtube.com/watch?v=2gAxHTHOSKk) <br/> <img src="assets/img/mangrove.jpg" width="200">
 
 # Projects
-### 2022-2024 CoastNet: A network model that comprehensively quantifies the impacts of a diverse range of anthropogenic, natural, and climatic factors on the resilience of coastal cities to storms.
-[Project site] ()
-Funded by Government of Ireland Postdoctoral Fellowship.
-### 2021-2024 Global storm risk to coastal cities under climate change. 
-[Project site]()
-### 2020-2022 CHES: Resilience of Coastal Human-Environment Systems 
-Funded by Marie Curie Postdoctoral Fellowship. [Project site](https://github.com/moyu-ENV/CHES)
-### 2013-2017 Phenology of Louisiana coastal marshes from 1984-2014: long- and short-term variation associated with climate change and disastrous events.
-[Project site]() 
+**CoastNet:** ML for storm damage to global mangrove ecosystems. [Project site]()
+2022-2024. Funded by Government of Ireland Postdoctoral Fellowship.
+**Storm damage to global electricity network** Global storm risk to coastal cities under climate change. 2021-2014. Funded by NERC & Oxford John Fell Fund. [Project site]()
+**CHES:** Resilience of Coastal Human-Environment Systems. 2020-2022. Funded by Marie Curie Postdoctoral Fellowship. [Project site](https://github.com/moyu-ENV/CHES)
+**Phenology of Louisiana coastal marshes from 1984-2014:** Annual growth pattern changes associated with climate change and disastrous events. [Project site]() 
 
 # Teaching 
-Experimental Design and Analysis, 2022, Trinity College Dublin 
-[Resources](https://github.com/moyu-ENV/Teaching/tree/main/TCD-ZOU33070)
+**Experimental Design and Analysis** 2022. Trinity College Dublin. [Resources](https://github.com/moyu-ENV/Teaching/tree/main/TCD-ZOU33070)
