@@ -10,7 +10,8 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 ---
 
 # Research highlights
-[The Magic of Mangrove ](https://www.youtube.com/watch?v=2gAxHTHOSKk) <br/> <img src="assets/img/mangrove.jpg" width="200">
+[The Magic of Mangrove ](https://www.youtube.com/watch?v=2gAxHTHOSKk) | Who defends the defenders? 
+<img src="assets/img/mangrove.jpg" width="150"> | <img src="assets/img/storm.png" width="150">
 
 ---
 
