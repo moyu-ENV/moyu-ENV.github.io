@@ -4,9 +4,7 @@ I study coastal ecosystems as natural solutions for mitigating climate risks and
 ---
 
 # Research highlights
-|[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk)|[Who defends the defenders?](https://www.esa.org/blog/2023/09/29/tropical-cyclones-pose-risk-to-mangroves/) |
-|:-----:|:-----:| 
-
+|[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk)|[Who defends the defenders?](https://www.esa.org/blog/2023/09/29/tropical-cyclones-pose-risk-to-mangroves/)|
 |<img src="assets/img/mangrove.jpg" width="150" height="120">|<img src="assets/img/storm.png" width="150" height="120">|
 |:-----:|:-----:| 
 
