@@ -17,16 +17,16 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 ---
 
 # Projects
-**CoastNet:** ML for storm damage to global mangrove ecosystems. 2022-2024. Funded by Government of Ireland Postdoctoral Fellowship.[Find out more]()
+**CoastNet:** ML for storm damage to global mangrove ecosystems. 2022-2024. Funded by Government of Ireland Postdoctoral Fellowship.[Find out more](https://github.com/moyu-ENV/CoastNet)
 
 
-**Storm damage to global electricity network:** Global storm risk to coastal cities under climate change. 2021-2014. Funded by NERC & Oxford John Fell Fund. [Find out more]()
+**Storm damage to global electricity network:** Global storm risk to coastal cities under climate change. 2021-2014. Funded by NERC & Oxford John Fell Fund. [Find out more](https://github.com/moyu-ENV/powerOutageNL)
 
 
 **CHES:** Resilience of Coastal Human-Environment Systems. 2020-2022. Funded by Marie Curie Postdoctoral Fellowship. [Find out more](https://github.com/moyu-ENV/CHES)
 
 
-**Phenology of Louisiana coastal marshes from 1984-2014:** Annual growth pattern changes associated with climate change and disastrous events. [Find out more]() 
+**Phenology of Louisiana coastal marshes from 1984-2014:** Annual growth pattern changes associated with climate change and disastrous events. [Find out more](https://github.com/moyu-ENV/Dissertation2017) 
 
 ---
 
