@@ -35,5 +35,10 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 
 ---
 
+# Code
+**A non-linear mixed model:** A statistical tool for analysing time series data with complex patterns, such as phenological records. It has the capability of comparing parameter estimates among different vegetation types. [Find out more](https://github.com/moyu-ENV/Dissertation2017) 
+
+---
+
 # Teaching 
 **Experimental Design and Analysis.** 2022. Trinity College Dublin. [Resources](https://github.com/moyu-ENV/Teaching/tree/main/TCD-ZOU33070)
