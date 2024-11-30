@@ -1,5 +1,5 @@
 # Research Interests
-I study coastal ecosystems as natural solutions for mitigating climate risks and supporting adaptation, even as these ecosystems themselves face significant climate change stresses. My work focuses on developing advanced Earth and data science techniques to analyze ecosystem dynamics and functions on a global scale.
+Coastal ecosystems play a crucial role in mitigating and adapting to climate risks, but the ecosystems themselves are also highly vulnerable to climate change. My current work focuses on the resilience of global mangrove ecosystems to storm disturbances and the implications for the vital services they provide, such as storm protection. I am also passionate about advancing Earth and data science methodologies to better understand and analyze ecosystem dynamics and functions on a global scale.
 
 ---
 
@@ -17,7 +17,7 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 ---
 
 # Projects
-**CoastNet:** ML for storm damage to global mangrove ecosystems. 2022-2024. Funded by Government of Ireland Postdoctoral Fellowship.[Find out more](https://github.com/moyu-ENV/CoastNet)
+**CoastNet:** ML for storm damage to global mangrove ecosystems. 2022-2024. Funded by Government of Ireland Postdoctoral Fellowship. [Find out more](https://github.com/moyu-ENV/CoastNet)
 
 
 **Storm damage to global electricity network:** Global storm risk to coastal cities under climate change. 2021-2014. Funded by NERC & Oxford John Fell Fund. [Find out more](https://github.com/moyu-ENV/powerOutageNL)
