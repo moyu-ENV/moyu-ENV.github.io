@@ -1,5 +1,5 @@
 # Research Interests
-Coastal ecosystems play a crucial role in mitigating and adapting to climate risks, but the ecosystems themselves are also highly vulnerable to climate change. My current work focuses on the resilience of global mangrove ecosystems to storm disturbances and the implications for the vital services they provide, such as storm protection. I am also passionate about advancing Earth and data science methodologies to better understand and analyze ecosystem dynamics and functions on a global scale.
+Coastal ecosystems play a crucial role in mitigating and adapting to climate risks, but the ecosystems themselves are also highly vulnerable to climate change. My current work focuses on the resilience of global mangrove ecosystems to storm disturbances and the implications for the vital services they provide, such as storm protection. I am also passionate about advancing Earth and data science methodologies to better understand and analyze coastal ecosystem dynamics and functions on a global scale.
 
 ---
 
