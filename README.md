@@ -1,4 +1,4 @@
-# Research interests
+![image](https://github.com/user-attachments/assets/9f93a815-1767-4868-9059-b29643313165)# Research interests
 Coastal ecosystems are vital for climate risk mitigation and adaptation, yet these ecosystems themselves are among the most vulnerable to the impacts of climate change. My research centres on the question: **How does the resilience of these ecosystems to climate change affect their functioning under such pressures?** I am also passionate about developing new Earth and data science methodologies to deepen our understanding of coastal ecosystem dynamics and their functions at regional and global scales.
 
 ---
@@ -25,10 +25,11 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 <img align="right" src="https://sos.noaa.gov/ftp_mirror/land/earth_night/2012/media/thumbnail_big.jpg" width="150" alt="image" /> **Storm damage to global electricity network** investigates the vulnerability of electricity infrastructure in coastal cities to intensifying storms driven by climate change. Combining advanced modeling, historical storm data, and climate projections, the research aims to identify high-risk areas and develop strategies to enhance the resilience of energy networks. This work received funding from  NERC and the Oxford John Fell Fund. [Find out more](https://github.com/moyu-ENV/powerOutageNL)
 
 
-**CHES:** Resilience of Coastal Human-Environment Systems. 2020-2022. Funded by Marie Curie Postdoctoral Fellowship. [Find out more](https://github.com/moyu-ENV/CHES)
+<img align="left" src="https://sos.noaa.gov/ftp_mirror/land/earth_night/2012/media/thumbnail_big.jpg" width="150" alt="image" />**CHES**Resilience of Coastal Human-Environment Systems. 2020-2022. Funded by Marie Curie Postdoctoral Fellowship. [Find out more](https://github.com/moyu-ENV/CHES)
 
 
-**Phenology of Louisiana coastal marshes from 1984-2014:** Annual growth pattern changes associated with climate change and disastrous events. [Find out more](https://github.com/moyu-ENV/Dissertation2017) 
+
+<img align="right" src="https://landsat.gsfc.nasa.gov/wp-content/uploads/2016/12/AGU2016_Yu.Mo_.1.png" width="150" alt="image" />**Phenology of Louisiana coastal marshes from 1984-2014** Annual growth pattern changes associated with climate change and disastrous events. [Find out more](https://github.com/moyu-ENV/Dissertation2017) 
 
 ---
 
