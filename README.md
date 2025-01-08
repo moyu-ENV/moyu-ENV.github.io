@@ -17,7 +17,7 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 ---
 
 # Projects
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/12433/12433416.png" alt="image" />**CoastNet** leverages machine learning to assess and quantify the impact of storm events on mangrove forests worldwide. By integrating satellite imagery, climate data, and ecological insights, the research aims to enhance our understanding of storm-induced damages and inform strategies for mangrove conservation and resilience. The project is funded by the prestigious Government of Ireland Postdoctoral Fellowship (2022-2024). [Find out more](https://github.com/moyu-ENV/CoastNet)
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/12433/12433416.png" width="150" alt="image" />**CoastNet** leverages machine learning to assess and quantify the impact of storm events on mangrove forests worldwide. By integrating satellite imagery, climate data, and ecological insights, the research aims to enhance our understanding of storm-induced damages and inform strategies for mangrove conservation and resilience. The project is funded by the prestigious Government of Ireland Postdoctoral Fellowship (2022-2024). [Find out more](https://github.com/moyu-ENV/CoastNet)
 
 
 **Storm damage to global electricity network:** Global storm risk to coastal cities under climate change. 2021-2014. Funded by NERC & Oxford John Fell Fund. [Find out more](https://github.com/moyu-ENV/powerOutageNL)
