@@ -17,7 +17,7 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 ---
 
 # Projects
-![bg left](https://picsum.photos/720?image=29](https://esajournals.onlinelibrary.wiley.com/cms/asset/84dde2e4-63d9-4a4e-978e-ed91d7ab056e/fee.v21.6.cover.gif)
+![bg left](https://esajournals.onlinelibrary.wiley.com/cms/asset/84dde2e4-63d9-4a4e-978e-ed91d7ab056e/fee.v21.6.cover.gif)
 **CoastNet** leverages machine learning to assess and quantify the impact of storm events on mangrove forests worldwide. By integrating satellite imagery, climate data, and ecological insights, the research aims to enhance our understanding of storm-induced damages and inform strategies for mangrove conservation and resilience. The project is funded by the prestigious Government of Ireland Postdoctoral Fellowship (2022-2024). [Find out more](https://github.com/moyu-ENV/CoastNet)
 
 
