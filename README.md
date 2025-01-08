@@ -22,7 +22,7 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 <br/>
 <br/>
 
-**Storm damage to global electricity network:** Global storm risk to coastal cities under climate change. 2021-2014. Funded by NERC & Oxford John Fell Fund. [Find out more](https://github.com/moyu-ENV/powerOutageNL)
+<img align="right" src="https://sos.noaa.gov/ftp_mirror/land/earth_night/2012/media/thumbnail_big.jpg" width="150" alt="image" /> **Storm damage to global electricity network** investigates the vulnerability of electricity infrastructure in coastal cities to intensifying storms driven by climate change. Combining advanced modeling, historical storm data, and climate projections, the research aims to identify high-risk areas and develop strategies to enhance the resilience of energy networks. This work received funding from  NERC and the Oxford John Fell Fund. [Find out more](https://github.com/moyu-ENV/powerOutageNL)
 
 
 **CHES:** Resilience of Coastal Human-Environment Systems. 2020-2022. Funded by Marie Curie Postdoctoral Fellowship. [Find out more](https://github.com/moyu-ENV/CHES)
