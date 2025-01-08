@@ -33,7 +33,7 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 <br/>
 
 
-<img align="right" src="https://landsat.gsfc.nasa.gov/wp-content/uploads/2016/12/AGU2016_Yu.Mo_.1.png" width="180" height="180" alt="image" /> **Phenology of Louisiana coastal marshes from 1984-2014** Annual growth pattern changes associated with climate change and disastrous events. [Find out more](https://github.com/moyu-ENV/Dissertation2017) 
+<img align="right" src="https://landsat.gsfc.nasa.gov/wp-content/uploads/2016/12/AGU2016_Yu.Mo_.1.png" width="180" height="180" alt="image" /> **Phenology of Louisiana coastal marshes from 1984-2014** examines changes in the annual growth patterns of coastal marsh vegetation over three decades. By analyzing long-term data, it investigates the impacts of climate change and catastrophic events on the phenology of these vital ecosystems. This research provides key insights into how coastal marshes respond to environmental stressors, informing strategies for their conservation and management. [Find out more](https://github.com/moyu-ENV/Dissertation2017) 
 <br/>
 <br/>
 <br/>
