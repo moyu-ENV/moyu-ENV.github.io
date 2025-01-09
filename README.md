@@ -3,14 +3,19 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 
 ---
  # Research highlights
+ 
 <img align="left" src="assets/img/mangrove.jpg" width="180" height="180" alt="image" />[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk) 
 <br/> A three-minute video showcasing how I analyze historical storm data and satellite imagery to investigate how mangroves respond to storm events.
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 <img align="left" src="assets/img/storm.png" width="180" height="180" alt="image" />[Who defends the defenders?](https://www.esa.org/blog/2023/09/29/tropical-cyclones-pose-risk-to-mangroves/)
-<br/> A five-minute read exploring how mangroves may response to increased storminess in a warming climate.
+<br/> A five-minute read exploring how mangroves may respond to increased storminess in a warming climate.
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
