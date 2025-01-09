@@ -2,11 +2,18 @@
 Coastal ecosystems are vital for climate risk mitigation and adaptation, yet these ecosystems themselves are among the most vulnerable to the impacts of climate change. My research centres on the question: **How does the resilience of these ecosystems to climate change affect their functioning under such pressures?** I am also passionate about developing new Earth and data science methodologies to deepen our understanding of coastal ecosystem dynamics and their functions at regional and global scales.
 
 ---
+ # Research highlights
+<img align="left" src="assets/img/mangrove.jpg" width="180" height="180" alt="image" />[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk) 
+<br/> A three-minute video showcasing how I analyze historical storm data and satellite imagery to investigate how mangroves respond to storm events.
+<br/>
+<br/>
+<br/>
 
-# Research highlights
-|[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk)|[Who defends the defenders?](https://www.esa.org/blog/2023/09/29/tropical-cyclones-pose-risk-to-mangroves/)|
-|:-----:|:-----:| 
-|<img src="assets/img/mangrove.jpg" width="150" height="120">|<img src="assets/img/storm.png" width="150" height="120">|
+<img align="left" src="assets/img/storm.png" width="180" height="180" alt="image" />[Who defends the defenders?](https://www.esa.org/blog/2023/09/29/tropical-cyclones-pose-risk-to-mangroves/)
+<br/> A five-minute read exploring how mangroves may response to increased storminess in a warming climate.
+<br/>
+<br/>
+<br/>
 
 ---
 
