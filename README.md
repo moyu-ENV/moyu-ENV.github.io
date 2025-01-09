@@ -12,6 +12,7 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 <br/>
 <br/>
 
+
 <img align="left" src="assets/img/storm.png" width="180" height="180" alt="image" />[Who defends the defenders?](https://www.esa.org/blog/2023/09/29/tropical-cyclones-pose-risk-to-mangroves/)
 <br/> A five-minute read exploring how mangroves may respond to increased storminess in a warming climate.
 <br/>
@@ -35,6 +36,7 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 <br/>
 <br/>
 <br/>
+<br/>
 
 <img align="right" src="https://sos.noaa.gov/ftp_mirror/land/earth_night/2012/media/thumbnail_big.jpg" width="180" height="180" alt="image" /> **Storm damage to global electricity network** investigates the vulnerability of electricity infrastructure in coastal cities to intensifying storms driven by climate change. Combining advanced modeling, historical storm data, and climate projections, the research aims to identify high-risk areas and develop strategies to enhance the resilience of energy networks. This work received funding from  NERC and the Oxford John Fell Fund. [Find out more](https://github.com/moyu-ENV/powerOutageNL)
 <br/>
@@ -42,6 +44,7 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 <br/>
 
 <img align="left" src="https://assets.unenvironment.org/decadeonrestoration/s3fs-public/inline-images/Captura%20de%20pantalla%202022-12-21%20a%20las%2016.41.41.png" width="180" height="180" alt="image" />**CHES** Studied the Resilience of Coastal Human-Environment Systems by quantifying the protective role of coastal ecosystems and forecasting future ecosystem conditions under various climate  scenarios. Funded by Marie Curie Postdoctoral Fellowship (2020-2022). [Find out more](https://github.com/moyu-ENV/CHES)
+<br/>
 <br/>
 <br/>
 <br/>
