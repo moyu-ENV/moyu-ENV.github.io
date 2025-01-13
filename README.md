@@ -4,7 +4,7 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 ---
  # Research highlights
  
-<img align="left" src="assets/img/mangrove.jpg" width="180" height="180" margin-right="50" alt="image" />[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk) 
+<kbd><img align="left" src="assets/img/mangrove.jpg" width="180" height="180" margin-right="50" alt="image" /></kbd>[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk) 
 <br/> A three-minute video showcasing how I analyze historical storm data and satellite imagery to investigate how mangroves respond to storm events.
 <br/>
 <br/>
@@ -45,7 +45,7 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 <br/>
 <br/>
 
-<img align="left" src="https://assets.unenvironment.org/decadeonrestoration/s3fs-public/inline-images/Captura%20de%20pantalla%202022-12-21%20a%20las%2016.41.41.png" width="180" height="180" alt="image" />**CHES** Studied the Resilience of Coastal Human-Environment Systems by quantifying the protective role of coastal ecosystems and forecasting future ecosystem conditions under various climate  scenarios. Funded by Marie Curie Postdoctoral Fellowship (2020-2022). [Find out more](https://github.com/moyu-ENV/CHES)
+<img align="left" src="https://assets.unenvironment.org/decadeonrestoration/s3fs-public/inline-images/Captura%20de%20pantalla%202022-12-21%20a%20las%2016.41.41.png" width="180" height="180" alt="image" />**CHES** studied the Resilience of Coastal Human-Environment Systems by quantifying the protective role of coastal ecosystems and forecasting future ecosystem conditions under various climate  scenarios. Funded by Marie Curie Postdoctoral Fellowship (2020-2022). [Find out more](https://github.com/moyu-ENV/CHES)
 <br/>
 <br/>
 <br/>
