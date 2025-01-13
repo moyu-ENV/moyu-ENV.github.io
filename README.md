@@ -32,7 +32,7 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 
 ---
 
-# Projects
+# Research Projects
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/12433/12433416.png" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />**CoastNet** combines satellite-based Earth observations and machine learning techniques to quantify the impact of storm events on mangrove forests worldwide. By integrating satellite imagery, climate data, and machine learning algorithms, the research aims to enhance our understanding of storm-induced damages and inform strategies for mangrove resilience. The project is funded by the prestigious Government of Ireland Postdoctoral Fellowship (2022-2024). [Find out more](https://github.com/moyu-ENV/CoastNet)
 <br/>
 <br/>
@@ -65,15 +65,6 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 
 ---
 
-# Datasets
-**Global storm attributes:** Global storm attributes derived from historical records from 1980-2020 (at 1 degree). [View and download data](https://code.earthengine.google.com/a015ac987033c1af7a351c0efc6c6043)    
-
----
-
-# Code
-**A non-linear mixed model:** A statistical tool for analysing time series data with complex patterns, such as phenological records. It has the capability of comparing parameter estimates among different vegetation types. [Find out more](https://github.com/moyu-ENV/Dissertation2017) 
-
----
 
 # Teaching 
 **Experimental Design and Analysis.** 2022. Trinity College Dublin. [Resources](https://github.com/moyu-ENV/Teaching/tree/main/TCD-ZOU33070)
