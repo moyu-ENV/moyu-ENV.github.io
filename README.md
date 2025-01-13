@@ -40,7 +40,7 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 <br/>
 <br/>
 
-<img align="right" src="https://sos.noaa.gov/ftp_mirror/land/earth_night/2012/media/thumbnail_big.jpg" width="200" height="200" alt="image" /><img  align="right" src="assets/img/blank.png" height=180 width=10 alt="image" />**Storm-induced global electricity network failure** explores the growing vulnerability of electricity infrastructure to the increasing storm risks caused by climate change. Combining satellite-based nighttime light observations, global electricity network databases, and historical and climate projections, this work assesses the **intensity and duration** caused by storms. The research aims to identify high-risk areas and inform strategies to bolster the resilience of electricity networks worldwide. This work received funding from  NERC and the Oxford John Fell Fund. [Find out more](https://github.com/moyu-ENV/powerOutageNL)
+<img align="right" src="https://sos.noaa.gov/ftp_mirror/land/earth_night/2012/media/thumbnail_big.jpg" width="200" height="200" alt="image" /><img  align="right" src="assets/img/blank.png" height200 width=10 alt="image" />**Storm-induced global electricity network failure** explores the growing vulnerability of electricity infrastructure to the increasing storm risks caused by climate change. Combining satellite-based nighttime light observations, global electricity network databases, and historical and climate projections, this work assesses the **intensity and duration** caused by storms. The research aims to identify high-risk areas and inform strategies to bolster the resilience of electricity networks worldwide. This work received funding from  NERC and the Oxford John Fell Fund. [Find out more](https://github.com/moyu-ENV/powerOutageNL)
 <br/>
 <br/>
 <br/>
@@ -56,7 +56,7 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 <br/>
 
 
-<img align="right" src="https://landsat.gsfc.nasa.gov/wp-content/uploads/2016/12/AGU2016_Yu.Mo_.1.png" width="200" height="200" alt="image" /><img  align="right" src="assets/img/blank.png" height=180 width=10 alt="image" />**Phenology of Louisiana coastal marshes** analyzes changes in the annual growth patterns of marsh vegetation over 30 years (1984-2014). By analyzing long-term satellite data archives and field-based environmental monitoring data, it investigates the impacts of climate change and catastrophic events on the phenology of these vital ecosystems. Funded by Gulf of Mexico Research Initiative (GoMRI). [Find out more](https://github.com/moyu-ENV/Dissertation2017) 
+<img align="right" src="https://landsat.gsfc.nasa.gov/wp-content/uploads/2016/12/AGU2016_Yu.Mo_.1.png" width="200" height="200" alt="image" /><img  align="right" src="assets/img/blank.png" height=200 width=10 alt="image" />**Phenology of Louisiana coastal marshes** analyzes changes in the annual growth patterns of marsh vegetation over 30 years (1984-2014). By analyzing long-term satellite data archives and field-based environmental monitoring data, it investigates the impacts of climate change and catastrophic events on the phenology of these vital ecosystems. Funded by Gulf of Mexico Research Initiative (GoMRI). [Find out more](https://github.com/moyu-ENV/Dissertation2017) 
 <br/>
 <br/>
 <br/>
