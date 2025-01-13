@@ -67,4 +67,4 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 
 
 # Teaching 
-**Experimental Design and Analysis.** 2022. Trinity College Dublin. This course focuses on the planning, implementation, and interpretation of experiments in environmental studies. It encompasses techniques for structuring experiments, minimizing bias, and applying statistical methods to analyze data effectively.[Resources](https://github.com/moyu-ENV/Teaching/tree/main/TCD-ZOU33070)
+**Experimental Design and Analysis.** 2022. Trinity College Dublin. This course focuses on the planning, implementation, and interpretation of experiments in environmental studies. It encompasses techniques for structuring experiments, minimizing bias, and applying statistical methods to analyze data effectively. [Resources](https://github.com/moyu-ENV/Teaching/tree/main/TCD-ZOU33070)
