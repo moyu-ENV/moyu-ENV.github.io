@@ -4,7 +4,7 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 ---
  # Research highlights
  
-<img align="left" src="assets/img/mangrove.jpg" width="180" height="180" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk) 
+<img align="left" src="assets/img/mangrove.jpg" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk) 
 <br/> A three-minute video showcasing how I analyze historical storm data and satellite imagery to investigate how mangroves respond to storm events.
 <br/>
 <br/>
@@ -13,7 +13,7 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 <br/>
 
 
-<img align="left" src="assets/img/storm.png" width="180" height="180" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[Who defends the defenders?](https://www.esa.org/blog/2023/09/29/tropical-cyclones-pose-risk-to-mangroves/)
+<img align="left" src="assets/img/storm.png" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[Who defends the defenders?](https://www.esa.org/blog/2023/09/29/tropical-cyclones-pose-risk-to-mangroves/)
 <br/> A five-minute read exploring how mangroves may respond to increased storminess in a warming climate.
 <br/>
 <br/>
@@ -32,20 +32,20 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 ---
 
 # Projects
-<img align="left" src="https://cdn-icons-png.flaticon.com/512/12433/12433416.png" width="180" height="180" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />**CoastNet** leverages machine learning to assess and quantify the impact of storm events on mangrove forests worldwide. By integrating satellite imagery, climate data, and ecological insights, the research aims to enhance our understanding of storm-induced damages and inform strategies for mangrove conservation and resilience. The project is funded by the prestigious Government of Ireland Postdoctoral Fellowship (2022-2024). [Find out more](https://github.com/moyu-ENV/CoastNet)
+<img align="left" src="https://cdn-icons-png.flaticon.com/512/12433/12433416.png" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />**CoastNet** combines satellite-based Earth observations and machine learning techniques to quantify the impact of storm events on mangrove forests worldwide. By integrating satellite imagery, climate data, and machine learning algorithms, the research aims to enhance our understanding of storm-induced damages and inform strategies for mangrove resilience. The project is funded by the prestigious Government of Ireland Postdoctoral Fellowship (2022-2024). [Find out more](https://github.com/moyu-ENV/CoastNet)
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 
-<img align="right" src="https://sos.noaa.gov/ftp_mirror/land/earth_night/2012/media/thumbnail_big.jpg" width="180" height="180" alt="image" /><img  align="right" src="assets/img/blank.png" height=180 width=10 alt="image" />**Storm damage to global electricity network** investigates the vulnerability of electricity infrastructure in coastal cities to intensifying storms driven by climate change. Combining advanced modeling, historical storm data, and climate projections, the research aims to identify high-risk areas and develop strategies to enhance the resilience of energy networks. This work received funding from  NERC and the Oxford John Fell Fund. [Find out more](https://github.com/moyu-ENV/powerOutageNL)
+<img align="right" src="https://sos.noaa.gov/ftp_mirror/land/earth_night/2012/media/thumbnail_big.jpg" width="200" height="200" alt="image" /><img  align="right" src="assets/img/blank.png" height=180 width=10 alt="image" />**Storm-induced global electricity network failure** explores the growing vulnerability of electricity infrastructure to the increasing storm risks caused by climate change. Combining satellite-based nighttime light observations, global electricity network databases, and historical and climate projections, this work assesses the **intensity and duration** caused by storms. The research aims to identify high-risk areas and inform strategies to bolster the resilience of electricity networks worldwide. This work received funding from  NERC and the Oxford John Fell Fund. [Find out more](https://github.com/moyu-ENV/powerOutageNL)
 <br/>
 <br/>
 <br/>
 <br/>
 
-<img align="left" src="https://assets.unenvironment.org/decadeonrestoration/s3fs-public/inline-images/Captura%20de%20pantalla%202022-12-21%20a%20las%2016.41.41.png" width="180" height="180" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />**CHES** studied the Resilience of Coastal Human-Environment Systems by quantifying the protective role of coastal ecosystems and forecasting future ecosystem conditions under various climate  scenarios. Funded by Marie Curie Postdoctoral Fellowship (2020-2022). [Find out more](https://github.com/moyu-ENV/CHES)
+<img align="left" src="https://assets.unenvironment.org/decadeonrestoration/s3fs-public/inline-images/Captura%20de%20pantalla%202022-12-21%20a%20las%2016.41.41.png" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />**CHES** studied the resilience of coastal human-environment systems by forecasting future mangrove ecosystem conditions under various climate scenarios and the implications on their protective roles. Funded by Marie Curie Postdoctoral Fellowship (2020-2022). [Find out more](https://github.com/moyu-ENV/CHES)
 <br/>
 <br/>
 <br/>
@@ -55,7 +55,7 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 <br/>
 
 
-<img align="right" src="https://landsat.gsfc.nasa.gov/wp-content/uploads/2016/12/AGU2016_Yu.Mo_.1.png" width="180" height="180" alt="image" /><img  align="right" src="assets/img/blank.png" height=180 width=10 alt="image" />**Phenology of Louisiana coastal marshes** examines changes in the annual growth patterns of coastal marsh vegetation from **1984-2014**. By analyzing long-term data, it investigates the impacts of climate change and catastrophic events on the phenology of these vital ecosystems. This research provides key insights into how coastal marshes respond to environmental stressors, informing strategies for their conservation and management. [Find out more](https://github.com/moyu-ENV/Dissertation2017) 
+<img align="right" src="https://landsat.gsfc.nasa.gov/wp-content/uploads/2016/12/AGU2016_Yu.Mo_.1.png" width="200" height="200" alt="image" /><img  align="right" src="assets/img/blank.png" height=180 width=10 alt="image" />**Phenology of Louisiana coastal marshes** analyzes changes in the annual growth patterns of marsh vegetation over 30 years (1984-2014). By analyzing long-term satellite data archives and field-based environmental monitoring data, it investigates the impacts of climate change and catastrophic events on the phenology of these vital ecosystems. Funded by Gulf of Mexico Research Initiative (GoMRI). [Find out more](https://github.com/moyu-ENV/Dissertation2017) 
 <br/>
 <br/>
 <br/>
