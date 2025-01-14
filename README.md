@@ -3,9 +3,10 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 
 ---
  # Research highlights
- 
 <img align="left" src="assets/img/mangrove.jpg" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk) 
 <br/> A three-minute video showcasing how I analyze historical storm data and satellite imagery to investigate how mangroves respond to storm events.
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -36,6 +37,8 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 <br/>
 <br/>
 <img align="left" src="https://sos.noaa.gov/ftp_mirror/land/earth_night/2012/media/thumbnail_big.jpg" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=200 width=10 alt="image" />**Global electricity network resilience.** This research investigates the escalating vulnerability of electricity infrastructure to the increasing storm risks driven by climate change. By integrating satellite-based nighttime light observations, global electricity network databases, and historical and climate projections, it provides a comprehensive assessment of storm-induced intensity and duration disruptions to electricity systems. This work received funding from  NERC and the Oxford John Fell Fund. [_Find out more_](https://github.com/moyu-ENV/powerOutageNL)
+<br/>
+<br/>
 <br/>
 <br/>
 
