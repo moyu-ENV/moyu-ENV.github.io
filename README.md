@@ -42,8 +42,6 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 ---
 
