@@ -12,8 +12,6 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 <br/>
 <br/>
 <br/>
-
-
 <img align="left" src="assets/img/storm.png" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[Who defends the defenders?](https://www.esa.org/blog/2023/09/29/tropical-cyclones-pose-risk-to-mangroves/)
 <br/> A five-minute read exploring how mangroves may respond to increased storminess in a warming climate.
 <br/>
@@ -36,6 +34,7 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 <br/>_Key outputs:_ A non-linear mixed model for analysing time series data with complex patterns, such as phenological records. [_View and download_](https://github.com/moyu-ENV/Dissertation2017) 
 <br/>
 <br/>
+<br/>
 <img align="left" src="https://sos.noaa.gov/ftp_mirror/land/earth_night/2012/media/thumbnail_big.jpg" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=200 width=10 alt="image" />**Global electricity network resilience.** This research investigates the escalating vulnerability of electricity infrastructure to the increasing storm risks driven by climate change. By integrating satellite-based nighttime light observations, global electricity network databases, and historical and climate projections, it provides a comprehensive assessment of storm-induced intensity and duration disruptions to electricity systems. This work received funding from  NERC and the Oxford John Fell Fund. [_Find out more_](https://github.com/moyu-ENV/powerOutageNL)
 <br/>
 <br/>
@@ -50,4 +49,5 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 
 # Teaching 
 **AI for the Environment: Adaptation & infrastructure.**  University of Oxford. 2024. This course introduces the application of AI and ML in finding solutions for more resilience infrastructures in the face of climate change. [_Find out more_](https://github.com/moyu-ENV/Teaching/tree/main/IECDT-Adaptation-infrastructure) 
+<br/>
 <br/>**Experimental Design and Analysis.** Trinity College Dublin. 2022. This course focuses on the planning, implementation, and interpretation of experiments in environmental studies. It encompasses techniques for structuring experiments, minimizing bias, and applying statistical methods to analyze data effectively. [_Find out more_](https://github.com/moyu-ENV/Teaching/tree/main/TCD-ZOU33070)
