@@ -52,7 +52,8 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 ---
 
 # Teaching 
-**AI for the Environment: Adaptation & infrastructure.**  University of Oxford. 2024. This course introduces the application of AI and ML in finding solutions for more resilience infrastructures in the face of climate change. [_Find out more_](https://github.com/moyu-ENV/Teaching/tree/main/IECDT-Adaptation-infrastructure) 
+**AI for the Environment: Adaptation & infrastructure.**  University of Oxford. 2024. This lecture introduces the application of AI and ML in finding solutions for more resilient infrastructures in the face of climate change. [_Find out more_](https://github.com/moyu-ENV/Teaching/tree/main/IECDT-Adaptation-infrastructure) 
 <br/>
-
-<br/>**Experimental Design and Analysis.** Trinity College Dublin. 2022. This course focuses on the planning, implementation, and interpretation of experiments in environmental studies. It encompasses techniques for structuring experiments, minimizing bias, and applying statistical methods to analyze data effectively. [_Find out more_](https://github.com/moyu-ENV/Teaching/tree/main/TCD-ZOU33070)
+**Nature-based Solutions for climate resilient development.** University College London. 2024. This lecture provides a general introduction to the application of NbS in supporting climate-resilient development. It includes a case study on using freely available datasets and online platforms for flood mapping. [_Find out more_](https://github.com/moyu-ENV/Teaching/tree/main/NbS-climate-resilient-development) 
+<br/>
+**Experimental Design and Analysis.** Trinity College Dublin. 2022. This course focuses on the planning, implementation, and interpretation of experiments in environmental studies. It encompasses techniques for structuring experiments, minimizing bias, and applying statistical methods to analyze data effectively. [_Find out more_](https://github.com/moyu-ENV/Teaching/tree/main/TCD-ZOU33070)
