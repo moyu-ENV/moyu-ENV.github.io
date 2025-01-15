@@ -54,4 +54,5 @@ Y. Mo, M. Simard, J. W. Hall. Tropical cyclone risk to global mangrove ecosystem
 # Teaching 
 **AI for the Environment: Adaptation & infrastructure.**  University of Oxford. 2024. This course introduces the application of AI and ML in finding solutions for more resilience infrastructures in the face of climate change. [_Find out more_](https://github.com/moyu-ENV/Teaching/tree/main/IECDT-Adaptation-infrastructure) 
 <br/>
+
 <br/>**Experimental Design and Analysis.** Trinity College Dublin. 2022. This course focuses on the planning, implementation, and interpretation of experiments in environmental studies. It encompasses techniques for structuring experiments, minimizing bias, and applying statistical methods to analyze data effectively. [_Find out more_](https://github.com/moyu-ENV/Teaching/tree/main/TCD-ZOU33070)
