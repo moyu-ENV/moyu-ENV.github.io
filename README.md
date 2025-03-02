@@ -27,12 +27,12 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 
 # Research focuses
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/12433/12433416.png" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=200 width=10 alt="image" />**NbS for storm protection.** Coastal ecosystems serve as Natural-based Solutions (NbS) for storm protection, yet they remain highly vulnerable to storm disturbances. I am currently leading a research line to deepen our understanding of their sustainability and functionality amidst climate change by modeling the storm resilience of global mangrove ecosystems. This groundbreaking research has delivered the first global systematic analysis of storm risks to mangroves and uncovered potential significant regional shifts under future climate scenarios ([Mo et al., 2023, Front. Ecol. Environ.](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2650)). This research has been funded by a _Government of Ireland Postdoctoral Fellowship_ (2022-2024) and a _Marie Curie Postdoctoral Fellowship_ (2020-2022). [_Find out more_](https://github.com/moyu-ENV/CoastNet)
-<br/> _Key outputs:_ Global storm attributes derived from historical records from 1980-2020 (at 1 degree). [_View and download_](https://code.earthengine.google.com/a015ac987033c1af7a351c0efc6c6043) 
+<br/> 
 <br/> 
 <br/>
 <br/>
 <img align="right" src="https://landsat.gsfc.nasa.gov/wp-content/uploads/2016/12/AGU2016_Yu.Mo_.1.png" width="200" height="200" alt="image" /><img  align="right" src="assets/img/blank.png" height=200 width=10 alt="image" />**Blue carbon dynamics.** Coastal marshes play a vital role as blue carbon sinks, helping to mitigate climate change by storing large amounts of carbon. However, these ecosystems face mounting threats from climate change and human- activities. My research focuses on uncovering the impacts of these disturbances on blue carbon dynamics using long-term satellite and field-based environmental data. One significant finding is that, despite being subjected to various climate and human-induced disturbances (e.g., [Mo et al., 2017, Ecosphere](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.1811) & [Mo et al., 2017. Remote Sens.](https://www.mdpi.com/2072-4292/9/6/547)), coastal marshes in Louisiana, US, have shown the potential to contribute to climate mitigation by extending their growing seasons from 1984-2014 ([Mo et al., 2019. Ecol. Evol.](https://doi.org/10.1002/ece3.5215)). [_Find out more_](https://github.com/moyu-ENV/Dissertation2017) 
-<br/>_Key outputs:_ A non-linear mixed model for analysing time series data with complex patterns, such as phenological records. [_View and download_](https://github.com/moyu-ENV/Dissertation2017) 
+<br/>
 <br/>
 <br/>
 <br/>
