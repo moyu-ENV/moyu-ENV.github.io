@@ -27,7 +27,7 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 
 # Research focuses
 <img align="left" src="https://cdn-icons-png.flaticon.com/512/12433/12433416.png" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=200 width=10 alt="image" />**NbS for storm protection.** Coastal ecosystems serve as Natural-based Solutions (NbS) for storm protection, yet they remain highly vulnerable to storm disturbances. I am currently leading a research line to deepen our understanding of their sustainability and functionality amidst climate change by modeling the storm resilience of global mangrove ecosystems. This groundbreaking research has delivered the first global systematic analysis of storm risks to mangroves and uncovered potential significant regional shifts under future climate scenarios ([Mo et al., 2023, Front. Ecol. Environ.](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2650)). This research has been funded by a _Government of Ireland Postdoctoral Fellowship_ (2022-2024) and a _Marie Curie Postdoctoral Fellowship_ (2020-2022).  
-<>([_Find out more_](https://github.com/moyu-ENV/CoastNet))
+[comment]: <> ([_Find out more_](https://github.com/moyu-ENV/CoastNet))
 <br/> 
 <br/> 
 <br/>
