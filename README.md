@@ -3,7 +3,7 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 
 ---
  # Research highlights
-<img align="left" src="assets/img/mangrove2.jpg" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[Cyclone travel speed transforms how mangroves are damaged worldwide](https://www.eci.ox.ac.uk/news/new-global-study-reveals-cyclone-travel-speed-transforming-how-mangroves-are-damaged-worldwide) 
+<img align="left" src="assets/img/mangrove2.jpg" width="180" height="180" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[Cyclone travel speed transforms how mangroves are damaged worldwide](https://www.eci.ox.ac.uk/news/new-global-study-reveals-cyclone-travel-speed-transforming-how-mangroves-are-damaged-worldwide) 
 <br/> A brief look at how shifting cyclone patterns are reshaping mangrove damage worldwide.
 <br/>
 <br/>
@@ -12,7 +12,7 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 <br/>
 <br/>
 <br/>
-<br/><img align="left" src="assets/img/mangrove.jpg" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk) 
+<br/><img align="left" src="assets/img/mangrove.jpg" width="180" height="180" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk) 
 <br/> A three-minute video showcasing how I analyze historical storm data and satellite imagery to investigate how mangroves respond to storm events.
 <br/>
 <br/>
@@ -22,7 +22,7 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 <br/>
 <br/>
 <br/>
-<img align="left" src="assets/img/storm.png" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[Who defends the defenders?](https://www.esa.org/blog/2023/09/29/tropical-cyclones-pose-risk-to-mangroves/)
+<img align="left" src="assets/img/storm.png" width="180" height="180" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[Who defends the defenders?](https://www.esa.org/blog/2023/09/29/tropical-cyclones-pose-risk-to-mangroves/)
 <br/> A five-minute read exploring how mangroves may respond to increased storminess in a warming climate.
 <br/>
 <br/>
