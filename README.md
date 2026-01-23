@@ -3,7 +3,16 @@ Coastal ecosystems are vital for climate risk mitigation and adaptation, yet the
 
 ---
  # Research highlights
-<img align="left" src="assets/img/mangrove.jpg" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk) 
+<img align="left" src="assets/img/mangrove2.jpg" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[Cyclone travel speed transforms how mangroves are damaged worldwide](https://www.eci.ox.ac.uk/news/new-global-study-reveals-cyclone-travel-speed-transforming-how-mangroves-are-damaged-worldwide) 
+<br/> A brief look at how shifting cyclone patterns are reshaping mangrove damage worldwide.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/><img align="left" src="assets/img/mangrove.jpg" width="200" height="200" alt="image" /><img  align="left" src="assets/img/blank.png" height=180 width=10 alt="image" />[The Magic of Mangrove](https://www.youtube.com/watch?v=2gAxHTHOSKk) 
 <br/> A three-minute video showcasing how I analyze historical storm data and satellite imagery to investigate how mangroves respond to storm events.
 <br/>
 <br/>
