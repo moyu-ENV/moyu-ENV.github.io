@@ -1,5 +1,5 @@
 # Research interests
-Coastal ecosystems are vital for climate risk mitigation and adaptation, yet these ecosystems themselves are among the most vulnerable to the impacts of climate change. My research centres on the question: **How does the resilience of these ecosystems to climate change affect their functioning under such pressures?** I am also passionate about developing new Earth and data science methodologies to deepen our understanding of coastal ecosystem dynamics and their functions at regional and global scales.
+Natural ecosystems are vital for climate risk mitigation and adaptation, yet are themselves highly vulnerable to the impacts of climate change. My research centres on the question: **How does the resilience of these ecosystems to climate change affect their functioning under such pressures?** I focus particularly on extreme weather events such as storms, which are difficult to capture through in situ observations. By leveraging advanced remote sensing and data science techniques, I analyse historical events worldwide to advance our understanding of coastal ecosystem dynamics and their functioning.
 
 ---
  # Research highlights
