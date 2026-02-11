@@ -1,5 +1,5 @@
 # Research interests
-Natural ecosystems are vital for climate risk mitigation and adaptation, yet are themselves highly vulnerable to the impacts of climate change. My research centres on the question: **How does the resilience of these ecosystems to climate change affect their functioning under such pressures?** I focus particularly on extreme weather events such as storms, which are difficult to capture through in situ observations. By leveraging advanced remote sensing and data science techniques, I analyse historical events worldwide to advance our understanding of coastal ecosystem dynamics and their functioning.
+Natural ecosystems are vital for climate risk mitigation and adaptation, yet are themselves highly vulnerable to the impacts of climate change. My research centres on the question: **How does the resilience of these ecosystems to climate change affect their functioning under such pressures?** I focus particularly on extreme weather events such as storms, which are especially challenging to examine using traditional approaches. By leveraging advanced remote sensing and data science techniques, I analyse historical events worldwide to advance our understanding of ecosystem dynamics and functioning.
 
 ---
  # Research highlights
